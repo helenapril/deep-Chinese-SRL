@@ -1,0 +1,1 @@
+他/PN/O 同时/AD/O 希望/VV/O 台湾/NR/B-ARG0 当局/NN/E-ARG0 顺应/VV/O 历史/NN/O 发展/NN/O 潮流/NN/O ，/PU/O 把握/VV/rel 时机/NN/S-ARG1 ，/PU/O 就/P/O 两/CD/O 岸/NN/O 政治/NN/O 谈判/NN/O 作出/VV/O 积极/JJ/O 回应/NN/O 和/CC/O 明智/JJ/O 选择/NN/O 。/PU/O 
